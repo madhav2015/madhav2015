@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="banner-light.png">
+    <img alt="Milky Way Galaxy Banner" src="banner-light.png" width="100%" style="border-radius: 12px;" />
+  </picture>
+</p>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Madhav+Raj+Modi+%F0%9F%91%8B;11+Years+Old+%F0%9F%A7%92;Studying+Coding+%F0%9F%92%BB;Future+Scientist+%F0%9F%94%AC+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
