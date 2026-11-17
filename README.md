@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="banner-light.png">
-    <img alt="Milky Way Galaxy Banner" src="banner-light.png" width="100%" style="border-radius: 12px;" />
+    <img alt="Milky Way Galaxy" src="banner.png" width="620" />
   </picture>
 </p>
 
